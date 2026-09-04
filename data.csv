@@ -1,0 +1,225 @@
+Material_ID,Material_Name,Chemical_Formula,Category,T_min_K,T_max_K,a,b,c,R_squared,Cp_Unit,Original_Equation_Type,Source_Database
+MAT001,Copper,Cu,Metals,298,1358,20.901572,0.00811261,154220.0978,0.963189,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT002,Aluminum,Al,Metals,298,933,19.281976,0.0140446,104453.0414,0.993593,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT003,Iron (alpha),Fe,Metals,298,1042,13.297789,0.02987277,303416.6247,0.998115,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT004,Nickel,Ni,Metals,298,631,23.49436,0.01486359,-26342.68506,0.999465,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT005,Titanium (alpha),Ti,Metals,298,1155,24.417607,0.00691254,-231155.3606,0.999273,J/(mol*K),Shomate,NIST JANAF
+MAT006,Gold,Au,Metals,298,1337,23.690171,0.00516993,-534.613135,1,J/(mol*K),Polynomial,IVTAN Thermodynamic Database
+MAT007,Silver,Ag,Metals,298,1235,22.534725,0.00601169,-101612.5058,0.999617,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT008,Tungsten,W,Metals,298,3695,24.080708,0.00484553,-11696.52768,0.999984,J/(mol*K),Polynomial,NASA Glenn Thermodynamic Database
+MAT009,Molybdenum,Mo,Metals,298,2896,26.340654,0.0020506,-249602.5192,0.986654,J/(mol*K),Shomate,NIST JANAF
+MAT010,Zinc,Zn,Metals,298,693,24.006479,0.00508412,-138096.1367,0.999793,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT011,Lead,Pb,Metals,298,600,24.854386,0.00635466,-21406.98447,0.99997,J/(mol*K),Polynomial,IVTAN Thermodynamic Database
+MAT012,Magnesium,Mg,Metals,298,923,24.073654,0.00544151,-75655.09329,0.99896,J/(mol*K),Shomate,NIST JANAF
+MAT013,Chromium,Cr,Metals,298,2180,27.667428,0.00426932,-586658.5537,0.986254,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT014,Platinum,Pt,Metals,298,2041,25.526494,0.00341832,-130287.4084,0.9966,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT015,Tantalum,Ta,Metals,298,3290,26.738593,0.00195328,-333233.1939,0.960144,J/(mol*K),Shomate,NIST JANAF
+MAT016,Niobium,Nb,Metals,298,2750,25.957135,0.0028937,-316187.4087,0.985263,J/(mol*K),Shomate,NIST JANAF
+MAT017,Vanadium,V,Metals,298,2183,26.69275,0.00330603,-446172.2748,0.982188,J/(mol*K),Shomate,NIST JANAF
+MAT018,Cobalt,Co,Metals,298,1768,27.866588,0.00407922,-428697.8044,0.992921,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT019,Zirconium (alpha),Zr,Metals,298,1138,24.807047,0.00706893,-242711.9509,0.998948,J/(mol*K),Shomate,NIST JANAF
+MAT020,Tin (White),Sn,Metals,298,505,21.960248,0.01714216,-7569.089977,1,J/(mol*K),Polynomial,IVTAN Thermodynamic Database
+MAT021,Beryllium,Be,Metals,298,1560,21.708557,0.0055761,-813569.4929,0.998278,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT022,Palladium,Pd,Metals,298,1828,25.318147,0.0040206,-142311.8212,0.996643,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT023,Rhenium,Re,Metals,298,3459,26.320441,0.00311145,-244236.6425,0.986474,J/(mol*K),Shomate,NIST JANAF
+MAT024,Stainless Steel 304,Fe-18Cr-8Ni,Metals and alloys,298,1200,450,0.28,0,1,J/(kg*K),Polynomial,MatWeb
+MAT025,Stainless Steel 316,Fe-16Cr-10Ni-2Mo,Metals and alloys,298,1200,468,0.26,0,1,J/(kg*K),Polynomial,MatWeb
+MAT026,Stainless Steel 410,Fe-12Cr,Metals and alloys,298,1000,440,0.31,0,1,J/(kg*K),Polynomial,MatWeb
+MAT027,Duplex Stainless Steel 2205,Fe-22Cr-5Ni-3Mo-N,Metals and alloys,298,1100,470,0.25,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT028,Inconel 625,Ni-22Cr-9Mo-3.5Nb,Metals and alloys,298,1300,410,0.22,0,1,J/(kg*K),Polynomial,MatWeb
+MAT029,Inconel 718,Ni-19Cr-3Mo-5Nb-Fe,Metals and alloys,298,1300,435,0.21,0,1,J/(kg*K),Polynomial,MatWeb
+MAT030,Incoloy 800,Fe-32Ni-21Cr,Metals and alloys,298,1200,460,0.24,0,1,J/(kg*K),Polynomial,MatWeb
+MAT031,Monel 400,Ni-31Cu,Metals and alloys,298,1100,427,0.18,0,1,J/(kg*K),Polynomial,MatWeb
+MAT032,Hastelloy C-276,Ni-16Mo-16Cr-4W,Metals and alloys,298,1250,427,0.19,0,1,J/(kg*K),Polynomial,MatWeb
+MAT033,Nimonic 80A,Ni-20Cr-2.4Ti-1.4Al,Metals and alloys,298,1200,448,0.22,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT034,Titanium Ti-6Al-4V (Grade 5),Ti-6Al-4V,Metals and alloys,298,1100,526,0.18,0,1,J/(kg*K),Polynomial,MatWeb
+MAT035,Titanium Ti-6Al-2Sn-4Zr-2Mo,Ti-6Al-2Sn-4Zr-2Mo,Metals and alloys,298,1000,510,0.2,0,1,J/(kg*K),Polynomial,MatWeb
+MAT036,Titanium Ti-3Al-2.5V (Grade 9),Ti-3Al-2.5V,Metals and alloys,298,1000,530,0.17,0,1,J/(kg*K),Polynomial,MatWeb
+MAT037,Aluminum 6061-T6,Al-1.0Mg-0.6Si,Metals and alloys,298,800,896,0.45,0,1,J/(kg*K),Polynomial,MatWeb
+MAT038,Aluminum 7075-T6,Al-5.6Zn-2.5Mg-1.6Cu,Metals and alloys,298,750,860,0.48,0,1,J/(kg*K),Polynomial,MatWeb
+MAT039,Aluminum 2024-T3,Al-4.4Cu-1.5Mg-0.6Mn,Metals and alloys,298,750,875,0.46,0,1,J/(kg*K),Polynomial,MatWeb
+MAT040,Aluminum 5083-H116,Al-4.5Mg-0.7Mn,Metals and alloys,298,750,900,0.44,0,1,J/(kg*K),Polynomial,MatWeb
+MAT041,Cartridge Brass (CuZn30),Cu-30Zn,Metals and alloys,298,1000,377,0.12,0,1,J/(kg*K),Polynomial,MatWeb
+MAT042,Naval Brass (CuZn39Sn1),Cu-39Zn-1Sn,Metals and alloys,298,950,380,0.13,0,1,J/(kg*K),Polynomial,MatWeb
+MAT043,Phosphor Bronze (CuSn8),Cu-8Sn-0.2P,Metals and alloys,298,1000,380,0.11,0,1,J/(kg*K),Polynomial,MatWeb
+MAT044,Aluminum Bronze (CuAl10Fe3),Cu-10Al-3Fe,Metals and alloys,298,1000,419,0.14,0,1,J/(kg*K),Polynomial,MatWeb
+MAT045,Cupronickel 70-30,Cu-30Ni-1Fe-1Mn,Metals and alloys,298,1100,377,0.15,0,1,J/(kg*K),Polynomial,MatWeb
+MAT046,Beryllium Copper (C17200),Cu-1.9Be-0.2Co,Metals and alloys,298,900,420,0.16,0,1,J/(kg*K),Polynomial,MatWeb
+MAT047,Magnesium AZ31B,Mg-3Al-1Zn,Metals and alloys,298,700,1020,0.55,0,1,J/(kg*K),Polynomial,MatWeb
+MAT048,Magnesium AZ91D,Mg-9Al-0.7Zn,Metals and alloys,298,700,1050,0.58,0,1,J/(kg*K),Polynomial,MatWeb
+MAT054,Alumina (Corundum),Al2O3,Ceramics,298,1200,112.224413,0.01597926,-3450053.422,0.999596,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT055,Silicon Nitride (alpha),Si3N4,Ceramics,298,2000,121.354265,0.02808331,-5065116.871,0.990254,J/(mol*K),Shomate,NIST JANAF
+MAT056,Silicon Carbide (beta),SiC,Ceramics,298,2000,43.351408,0.00710753,-1358347.151,0.995063,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT057,Titanium Carbide,TiC,Ceramics,298,2000,50.911013,0.00323756,-1388579.463,0.999678,J/(mol*K),Shomate,Materials Project
+MAT058,Boron Carbide,B4C,Ceramics,298,2000,107.222586,0.01217788,-5020819.501,0.996109,J/(mol*K),Shomate,NIST JANAF
+MAT059,Titanium Nitride,TiN,Ceramics,298,2000,45.817786,0.00449559,-936386.0159,0.995668,J/(mol*K),Shomate,NIST JANAF
+MAT060,Aluminum Nitride,AlN,Ceramics,298,1800,44.65062,0.00675365,-1210583.208,0.997631,J/(mol*K),Shomate,NIST JANAF
+MAT061,Zirconium Carbide,ZrC,Ceramics,298,2000,49.703108,0.00395427,-1252902.509,0.999466,J/(mol*K),Shomate,Materials Project
+MAT062,Zirconium Nitride,ZrN,Ceramics,298,2000,45.608599,0.0045101,-957838.4207,0.997502,J/(mol*K),Shomate,NIST JANAF
+MAT063,Boron Nitride (Hexagonal),BN,Ceramics,298,1800,32.818929,0.00748159,-1390945.067,0.994764,J/(mol*K),Shomate,NIST JANAF
+MAT064,Titanium Diboride,TiB2,Ceramics,298,2000,70.690069,0.00765625,-2666232.057,0.997288,J/(mol*K),Shomate,Materials Project
+MAT065,Zirconium Diboride,ZrB2,Ceramics,298,2000,71.088255,0.00754958,-2387199.214,0.997729,J/(mol*K),Shomate,Materials Project
+MAT066,Titanium Dioxide (Rutile),TiO2,Ceramics,298,1800,74.004431,0.00663699,-1849788.047,0.99741,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT067,Zinc Oxide (Zincite),ZnO,Ceramics,298,1500,46.455379,0.00529606,-777264.5513,0.999217,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT068,Chromium(III) Oxide,Cr2O3,Ceramics,298,1600,120.12708,0.01104048,-3277321.206,0.999113,J/(mol*K),Shomate,NIST JANAF
+MAT069,Iron(III) Oxide (Hematite),Fe2O3,Ceramics,298,1000,125.382368,0.01802362,-3399688.291,0.999886,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT070,Yttrium Oxide (Yttria),Y2O3,Ceramics,298,2000,122.536643,0.01023811,-2304885.383,0.997874,J/(mol*K),Shomate,IVTAN Thermodynamic Database
+MAT071,Lanthanum Oxide,La2O3,Ceramics,298,2000,127.75875,0.01194548,-2581825.576,0.998246,J/(mol*K),Shomate,IVTAN Thermodynamic Database
+MAT072,Cerium(IV) Oxide (Ceria),CeO2,Ceramics,298,1800,71.237319,0.00625378,-1412880.723,0.998299,J/(mol*K),Shomate,NIST JANAF
+MAT073,Barium Titanate,BaTiO3,Ceramics,298,1400,121.618146,0.01043924,-2547575.163,0.999481,J/(mol*K),Shomate,Materials Project
+MAT074,Lead Zirconate Titanate (PZT),PbZr0.52Ti0.48O3,Ceramics,298,800,380,0.16,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT075,Strontium Titanate,SrTiO3,Ceramics,298,1500,117.480815,0.00992002,-2237744.434,0.999325,J/(mol*K),Shomate,Materials Project
+MAT076,Cordierite,Mg2Al4Si5O18,Ceramics,298,1500,585.208085,0.06284526,-14546756.67,0.999115,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT077,Steatite (Magnesium Silicate),MgSiO3,Ceramics,298,1400,95.246855,0.01224592,-2150058.633,0.999401,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT078,Mullite,3Al2O3-2SiO2,Ceramics,298,1800,413.632847,0.03892359,-10516616.25,0.998221,J/(mol*K),Shomate,NIST JANAF
+MAT079,Zircon (Zirconium Silicate),ZrSiO4,Ceramics,298,1700,134.454718,0.0128969,-3222328.436,0.998448,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT080,Sialon (beta-phase),Si4Al2O2N6,Ceramics,298,1500,750,0.35,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT081,Hydroxyapatite,Ca10(PO4)6(OH)2,Ceramics,298,1200,895.987887,0.10850073,-20626215.37,0.99973,J/(mol*K),Shomate,PubChem
+MAT082,Beryllium Oxide (Beryllia),BeO,Ceramics,298,2000,50.028557,0.00452383,-1960803.069,0.99779,J/(mol*K),Shomate,NIST JANAF
+MAT083,Tantalum Nitride,TaN,Ceramics,298,2000,47.180982,0.0046501,-1018858.74,0.998584,J/(mol*K),Shomate,AFLOW Database
+MAT084,Silicon,Si,Semiconductors,298,1687,24.114138,0.00215798,-446214.2766,0.996734,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT085,Germanium,Ge,Semiconductors,298,1211,24.047848,0.00358888,-148544.4255,0.999805,J/(mol*K),Shomate,OQMD
+MAT086,Gallium Arsenide,GaAs,Semiconductors,298,1511,47.531012,0.0053732,-505685.2016,0.999777,J/(mol*K),Shomate,AFLOW Database
+MAT087,Gallium Nitride,GaN,Semiconductors,298,1200,42.358061,0.00894132,-877236.4449,0.999276,J/(mol*K),Shomate,Materials Project
+MAT088,Indium Phosphide,InP,Semiconductors,298,1333,46.047234,0.00640837,-442293.3121,0.999776,J/(mol*K),Shomate,AFLOW Database
+MAT089,Indium Arsenide,InAs,Semiconductors,298,1215,47.529541,0.00498881,-352763.8136,0.999904,J/(mol*K),Shomate,Materials Project
+MAT090,Indium Antimonide,InSb,Semiconductors,298,798,48.426233,0.00501211,-220863.4874,0.999992,J/(mol*K),Shomate,AFLOW Database
+MAT091,Gallium Phosphide,GaP,Semiconductors,298,1750,46.003945,0.00611498,-641965.2394,0.99922,J/(mol*K),Shomate,NIST JANAF
+MAT092,Gallium Antimonide,GaSb,Semiconductors,298,985,48.114129,0.00500016,-299305.5463,0.999971,J/(mol*K),Shomate,OQMD
+MAT093,Aluminum Arsenide,AlAs,Semiconductors,298,2013,46.897084,0.00525656,-525866.8857,0.998922,J/(mol*K),Shomate,Materials Project
+MAT094,Aluminum Phosphide,AlP,Semiconductors,298,1800,45.271305,0.00612665,-765515.9796,0.999035,J/(mol*K),Shomate,AFLOW Database
+MAT095,Aluminum Antimonide,AlSb,Semiconductors,298,1330,47.769224,0.00543112,-391700.0576,0.999862,J/(mol*K),Shomate,OQMD
+MAT096,Cadmium Telluride,CdTe,Semiconductors,298,1365,48.309443,0.00420446,-204118.7159,0.999895,J/(mol*K),Shomate,Springer Open Data
+MAT097,Cadmium Selenide,CdSe,Semiconductors,298,1512,47.859702,0.0046026,-279489.6674,0.999788,J/(mol*K),Shomate,Materials Project
+MAT098,Cadmium Sulfide,CdS,Semiconductors,298,1600,47.069936,0.00513488,-431626.9214,0.99954,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT099,Zinc Selenide,ZnSe,Semiconductors,298,1400,48.606082,0.00412595,-239103.9019,0.999936,J/(mol*K),Shomate,OQMD
+MAT100,Zinc Telluride,ZnTe,Semiconductors,298,1568,49.274066,0.00355663,-168638.0596,0.999906,J/(mol*K),Shomate,Materials Project
+MAT101,Zinc Sulfide (Sphalerite),ZnS,Semiconductors,298,1450,45.503906,0.00597391,-552519.5759,0.999701,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT102,Lead Sulfide (Galena),PbS,Semiconductors,298,1390,47.64527,0.00470032,-288160.4204,0.99982,J/(mol*K),Shomate,NIST JANAF
+MAT103,Lead Telluride,PbTe,Semiconductors,298,1197,49.385445,0.0036825,-152798.4834,0.999961,J/(mol*K),Shomate,Materials Project
+MAT104,Lead Selenide,PbSe,Semiconductors,298,1350,48.872217,0.00410192,-201978.941,0.99991,J/(mol*K),Shomate,OQMD
+MAT105,Molybdenum Disulfide,MoS2,Semiconductors,298,1400,70.918146,0.01043924,-2247575.163,0.999389,J/(mol*K),Shomate,Materials Project
+MAT106,Tungsten Diselenide,WSe2,Semiconductors,298,1300,73.944717,0.00939394,-1652217.973,0.999583,J/(mol*K),Shomate,AFLOW Database
+MAT107,Copper Indium Gallium Selenide,CuIn0.7Ga0.3Se2,Semiconductors,298,900,310,0.09,0,1,J/(kg*K),Polynomial,Springer Open Data
+MAT108,Copper Indium Diselenide,CuInSe2,Semiconductors,298,1000,97.171373,0.01135092,-1271430.193,0.999885,J/(mol*K),Shomate,Materials Project
+MAT109,Tin(II) Sulfide,SnS,Semiconductors,298,1150,47.052305,0.00604979,-416917.746,0.999923,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT110,Germanium Telluride,GeTe,Semiconductors,298,998,49.220997,0.00456231,-235593.882,0.999974,J/(mol*K),Shomate,OQMD
+MAT111,Silicon Germanium Alloy,Si0.8Ge0.2,Semiconductors,298,1400,23.746814,0.0028481,-358099.3497,0.999327,J/(mol*K),Shomate,Springer Open Data
+MAT112,Beta-Gallium Oxide,beta-Ga2O3,Semiconductors,298,1500,124.707577,0.01176831,-2787950.77,0.999376,J/(mol*K),Shomate,Materials Project
+MAT113,Black Phosphorus,P,Semiconductors,298,800,23.310839,0.00770074,-344869.8082,0.999891,J/(mol*K),Shomate,AFLOW Database
+MAT114,High-Density Polyethylene (HDPE),(C2H4)n,Polymers,200,400,1350,4.2,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT115,Low-Density Polyethylene (LDPE),(C2H4)n,Polymers,200,380,1450,4.65,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT116,Polypropylene (PP),(C3H6)n,Polymers,200,380,1200,3.9,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT117,Polytetrafluoroethylene (PTFE),(C2F4)n,Polymers,200,550,850,2.1,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT118,Polystyrene (PS),(C8H8)n,Polymers,200,370,1150,3.3,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT119,Polycarbonate (PC),(C16H14O3)n,Polymers,250,420,1080,2.8,0,1,J/(kg*K),Polynomial,MatWeb
+MAT120,Polymethyl Methacrylate (PMMA),(C5O2H8)n,Polymers,200,380,1250,3.1,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT121,Polyethylene Terephthalate (PET),(C10H8O4)n,Polymers,200,350,1050,2.95,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT122,Polyvinyl Chloride (PVC),(C2H3Cl)n,Polymers,200,350,900,2.45,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT123,Polyamide 6 (Nylon 6),(C6H11NO)n,Polymers,200,480,1300,3.4,0,1,J/(kg*K),Polynomial,MatWeb
+MAT124,"Polyamide 66 (Nylon 6,6)",(C12H22N2O2)n,Polymers,200,500,1350,3.55,0,1,J/(kg*K),Polynomial,MatWeb
+MAT125,Polyether Ether Ketone (PEEK),(C19H12O3)n,Polymers,250,550,1340,2.4,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT126,Polyoxymethylene (Acetal / POM),(CH2O)n,Polymers,200,420,1220,3.15,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT127,Polylactic Acid (PLA),(C3H4O2)n,Polymers,200,330,1180,2.85,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT128,Polyvinylidene Fluoride (PVDF),(C2H2F2)n,Polymers,200,420,1100,2.65,0,1,J/(kg*K),Polynomial,MatWeb
+MAT129,Polyimide (Kapton),(C22H10N2O5)n,Polymers,200,600,1090,1.85,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT130,Polyetherimide (Ultem / PEI),(C37H24O6N2)n,Polymers,200,480,1150,2.25,0,1,J/(kg*K),Polynomial,MatWeb
+MAT131,Polyphenylene Sulfide (PPS),(C6H4S)n,Polymers,200,520,1020,2.1,0,1,J/(kg*K),Polynomial,MatWeb
+MAT132,Polysulfone (PSU),(C27H22O4S)n,Polymers,200,460,1120,2.3,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT133,Polydimethylsiloxane (PDMS),(C2H6OSi)n,Polymers,200,450,1380,1.95,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT134,Polyurethane (Elastomer),(C17H16N2O4)n,Polymers,200,380,1500,3.2,0,1,J/(kg*K),Polynomial,MatWeb
+MAT135,Acrylonitrile Butadiene Styrene (ABS),(C8H8)x(C4H6)y(C3H3N)z,Polymers,200,380,1300,3.1,0,1,J/(kg*K),Polynomial,MatWeb
+MAT136,Natural Rubber (Polyisoprene),(C5H8)n,Polymers,200,350,1620,3.8,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT137,Styrene-Butadiene Rubber (SBR),(C8H8)x(C4H6)y,Polymers,200,350,1580,3.65,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT138,Nitrile Rubber (NBR),(C3H3N)x(C4H6)y,Polymers,200,360,1550,3.45,0,1,J/(kg*K),Polynomial,MatWeb
+MAT139,Ethylene Propylene Diene (EPDM),(C2H4)x(C3H6)y(diene)z,Polymers,200,370,1700,3.9,0,1,J/(kg*K),Polynomial,MatWeb
+MAT140,Polybutylene Terephthalate (PBT),(C12H12O4)n,Polymers,200,480,1100,2.8,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT141,Polyacrylonitrile (PAN),(C3H3N)n,Polymers,200,360,1220,2.75,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT142,Polyvinyl Alcohol (PVA),(C2H4O)n,Polymers,200,400,1400,3.5,0,1,J/(kg*K),Polynomial,PoLyInfo
+MAT143,Epoxy Resin (Bisphenol A Diglycidyl Ether),(C21H24O4)n,Polymers,200,420,1120,2.5,0,1,J/(kg*K),Polynomial,MatWeb
+MAT144,Fused Silica Glass,SiO2,Glasses,298,1800,66.804233,0.00839936,-2365962.841,0.997298,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT145,Borosilicate Glass (Pyrex),SiO2-B2O3-Na2O-Al2O3,Glasses,273,800,898.57624,0.44023548,-4810401.565,0.99921,J/(kg*K),Polynomial,AZoM Materials Database
+MAT146,Soda-Lime Glass,SiO2-Na2O-CaO,Glasses,273,800,840,0.78,0,1,J/(kg*K),Polynomial,MatWeb
+MAT147,Aluminosilicate Glass,SiO2-Al2O3-CaO-MgO,Glasses,273,900,780,0.72,0,1,J/(kg*K),Polynomial,MatWeb
+MAT148,Lead Crystal Glass,SiO2-PbO-K2O,Glasses,273,750,500,0.45,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT149,Fluoride Glass (ZBLAN),ZrF4-BaF2-LaF3-AlF3-NaF,Glasses,200,600,620,0.58,0,1,J/(kg*K),Polynomial,MatWeb
+MAT150,Chalcogenide Glass (Ge33As12Se55),Ge33As12Se55,Glasses,200,500,360,0.28,0,1,J/(kg*K),Polynomial,Springer Open Data
+MAT151,96% Silica Glass (Vycor),SiO2-B2O3,Glasses,273,1100,740,0.82,0,1,J/(kg*K),Polynomial,MatWeb
+MAT152,E-Glass (Alumino-borosilicate),SiO2-Al2O3-B2O3-CaO,Glasses,273,900,800,0.75,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT153,S-Glass (High Strength),SiO2-Al2O3-MgO,Glasses,273,950,735,0.78,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT154,Glass Ceramic (Zerodur),SiO2-Al2O3-Li2O,Glasses,200,600,820,0.65,0,1,J/(kg*K),Polynomial,MatWeb
+MAT155,Glass Ceramic (Macor),SiO2-Al2O3-MgO-K2O-F,Glasses,200,800,790,0.68,0,1,J/(kg*K),Polynomial,Corning Technical Database
+MAT156,Phosphate Glass,P2O5-Al2O3-Na2O,Glasses,273,700,710,0.62,0,1,J/(kg*K),Polynomial,Springer Open Data
+MAT157,Germanate Glass,GeO2-PbO,Glasses,273,750,480,0.38,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT158,Tellurite Glass,TeO2-WO3-La2O3,Glasses,273,650,390,0.32,0,1,J/(kg*K),Polynomial,Springer Open Data
+MAT159,Magnesia (Periclase),MgO,Refractories,298,2000,48.549167,0.00360158,-964523.3773,0.999452,J/(mol*K),Shomate,NIST JANAF
+MAT160,Zirconia (Monoclinic),ZrO2,Refractories,298,1478,71.888596,0.00681203,-1543347.282,0.999726,J/(mol*K),Shomate,IVTAN Thermodynamic Database
+MAT161,Hafnium Carbide,HfC,Refractories,298,2500,50.148589,0.00381329,-1216810.653,0.99826,J/(mol*K),Shomate,NIST JANAF
+MAT162,Tantalum Carbide,TaC,Refractories,298,2500,49.708147,0.00435926,-1149774.456,0.997822,J/(mol*K),Shomate,Materials Project
+MAT163,Spinel,MgAl2O4,Refractories,298,2000,162.99838,0.01454994,-4935347.035,0.99849,J/(mol*K),Shomate,NIST JANAF
+MAT164,Chromite,FeCr2O4,Refractories,298,1800,164.133989,0.01378858,-4357402.096,0.999069,J/(mol*K),Shomate,NIST JANAF
+MAT165,Forsterite,Mg2SiO4,Refractories,298,1800,159.254074,0.01623685,-4602102.085,0.998749,J/(mol*K),Shomate,NIST JANAF
+MAT166,Enstatite,MgSiO3,Refractories,298,1600,95.048532,0.01214135,-2307782.764,0.998933,J/(mol*K),Shomate,NIST JANAF
+MAT167,Calcium Oxide (Lime),CaO,Refractories,298,2000,50.570232,0.00291237,-842150.3005,0.999589,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT168,Dolomite (Calcined),CaO-MgO,Refractories,298,1800,880,0.22,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT169,Aluminum Titanate,Al2TiO5,Refractories,298,1600,185.405795,0.01931371,-4715689.522,0.999304,J/(mol*K),Shomate,Materials Project
+MAT170,Hafnium Diboride,HfB2,Refractories,298,2200,72.655261,0.00672139,-2337989.784,0.996241,J/(mol*K),Shomate,Materials Project
+MAT171,Tantalum Diboride,TaB2,Refractories,298,2200,73.692918,0.00663138,-2244683.678,0.996345,J/(mol*K),Shomate,Materials Project
+MAT172,Hafnia,HfO2,Refractories,298,2000,75.153864,0.0054097,-1525110.46,0.999066,J/(mol*K),Shomate,IVTAN Thermodynamic Database
+MAT173,Thoria,ThO2,Refractories,298,2500,74.595826,0.00499887,-1444419.61,0.995794,J/(mol*K),Shomate,NIST JANAF
+MAT174,Carbon Fiber / Epoxy (CFRP UD),C/Epoxy,Composite materials,200,450,900,2.1,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT175,Glass Fiber / Epoxy (GFRP),Glass/Epoxy,Composite materials,200,450,850,1.85,0,1,J/(kg*K),Polynomial,MatWeb
+MAT176,Aramid / Epoxy (Kevlar/Epoxy),Aramid/Epoxy,Composite materials,200,450,1100,2.4,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT177,Carbon/Carbon Composite (C/C),C/C,Composite materials,298,2000,1238.92612,0.43410713,-35663487.2,0.981025,J/(kg*K),Polynomial,MatWeb
+MAT178,Alumina / Silicon Carbide (Al2O3/SiC),Al2O3-SiC,Composite materials,298,1400,780,0.42,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT179,Silicon Carbide / Silicon Carbide (SiC/SiC),SiC/SiC,Composite materials,298,1600,680,0.48,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT180,Al/SiC Metal Matrix Composite (20% SiC),Al-20SiC,Composite materials,298,800,820,0.41,0,1,J/(kg*K),Polynomial,MatWeb
+MAT181,Al/Al2O3 Metal Matrix Composite,Al-Al2O3,Composite materials,298,800,840,0.38,0,1,J/(kg*K),Polynomial,MatWeb
+MAT182,Tungsten Carbide / Cobalt (WC-6Co),WC-6Co,Composite materials,298,1000,220,0.12,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT183,Tungsten Carbide / Cobalt (WC-12Co),WC-12Co,Composite materials,298,1000,245,0.14,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT184,TiC-Ni Cermet,TiC-Ni,Composite materials,298,1100,460,0.22,0,1,J/(kg*K),Polynomial,MatWeb
+MAT185,Wood-Plastic Composite (WPC),Wood-HDPE,Composite materials,200,360,1500,3.8,0,1,J/(kg*K),Polynomial,MatWeb
+MAT186,Basalt Fiber / Epoxy Composite,Basalt/Epoxy,Composite materials,200,450,870,1.75,0,1,J/(kg*K),Polynomial,AZoM Materials Database
+MAT187,Boron / Aluminum Composite,B/Al,Composite materials,298,750,810,0.35,0,1,J/(kg*K),Polynomial,MatWeb
+MAT188,Carbon Fiber / PEEK (AS4/PEEK),AS4/PEEK,Composite materials,200,550,1050,2.15,0,1,J/(kg*K),Polynomial,MatWeb
+MAT189,Lithium Cobalt Oxide (LCO),LiCoO2,Other technologically relevant materials,298,1000,80.68001,0.0122081,-1709522.162,0.999691,J/(mol*K),Shomate,Materials Project
+MAT190,Lithium Iron Phosphate (LFP),LiFePO4,Other technologically relevant materials,298,1000,151.845261,0.0219794,-3231695.091,0.999798,J/(mol*K),Shomate,Materials Project
+MAT191,Lithium Manganese Oxide (LMO),LiMn2O4,Other technologically relevant materials,298,1000,165.329227,0.02325562,-3532713.612,0.999799,J/(mol*K),Shomate,Materials Project
+MAT192,Lithium Titanate (LTO),Li4Ti5O12,Other technologically relevant materials,298,1100,405.757453,0.05064335,-8342705.024,0.999778,J/(mol*K),Shomate,Materials Project
+MAT193,Lithium Nickel Manganese Cobalt (NMC111),LiNi0.33Mn0.33Co0.33O2,Other technologically relevant materials,298,600,820,0.45,0,1,J/(kg*K),Polynomial,Springer Open Data
+MAT194,Lithium Nickel Cobalt Al Oxide (NCA),LiNi0.8Co0.15Al0.05O2,Other technologically relevant materials,298,600,840,0.48,0,1,J/(kg*K),Polynomial,Springer Open Data
+MAT195,Graphite (Synthetic),C,Other technologically relevant materials,298,3000,32.179522,0.00203513,-1368916.069,0.964443,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT196,Solid Electrolyte LLZO,Li7La3Zr2O12,Other technologically relevant materials,298,1000,442.781594,0.05765463,-9418235.057,0.999847,J/(mol*K),Shomate,Materials Project
+MAT197,Solid Electrolyte LGPS,Li10GeP2S12,Other technologically relevant materials,298,800,542.432905,0.08432854,-10969066.39,0.999962,J/(mol*K),Shomate,Materials Project
+MAT198,Solid Electrolyte NaSICON,Na3Zr2Si2PO12,Other technologically relevant materials,298,1000,411.551711,0.05512632,-8472568.73,0.999903,J/(mol*K),Shomate,Materials Project
+MAT199,Bismuth Telluride,Bi2Te3,Other technologically relevant materials,298,850,120.959241,0.0153565,-1214181.422,0.999961,J/(mol*K),Shomate,Springer Open Data
+MAT200,Lead Telluride (Thermoelectric),PbTe,Other technologically relevant materials,298,1000,49.332474,0.0037467,-149003.7349,0.999984,J/(mol*K),Shomate,Materials Project
+MAT201,Cobalt Antimonide (Skutterudite),CoSb3,Other technologically relevant materials,298,900,98.542099,0.01313601,-1328397.607,0.999968,J/(mol*K),Shomate,AFLOW Database
+MAT202,Silicon Germanium (p-type TE),Si0.7Ge0.3,Other technologically relevant materials,298,1300,23.786962,0.00303775,-318360.2094,0.999623,J/(mol*K),Shomate,NASA Glenn Thermodynamic Database
+MAT203,Tin Selenide,SnSe,Other technologically relevant materials,298,950,48.692006,0.0054973,-271717.2055,0.999968,J/(mol*K),Shomate,Materials Project
+MAT204,YBCO Superconductor,YBa2Cu3O7,Other technologically relevant materials,200,800,283.706836,0.05802944,-5376747.251,0.999962,J/(mol*K),Shomate,Materials Project
+MAT205,BSCCO Superconductor,Bi2Sr2CaCu2O8,Other technologically relevant materials,200,800,319.820533,0.06398488,-6304953.458,0.999962,J/(mol*K),Shomate,Springer Open Data
+MAT206,Magnesium Diboride,MgB2,Other technologically relevant materials,200,800,51.392288,0.01894884,-1181584.504,0.999923,J/(mol*K),Shomate,Materials Project
+MAT207,Niobium-Titanium (Superconductor),Nb-47Ti,Other technologically relevant materials,100,600,380,0.25,0,1,J/(kg*K),Polynomial,MatWeb
+MAT208,Niobium-Tin (Nb3Sn),Nb3Sn,Other technologically relevant materials,100,800,93.36637,0.01442611,-857938.7059,0.99998,J/(mol*K),Shomate,AFLOW Database
+MAT209,Uranium Dioxide (Nuclear Fuel),UO2,Other technologically relevant materials,298,2500,73.577685,0.0062081,-1820560.156,0.992859,J/(mol*K),Shomate,NIST JANAF
+MAT210,Plutonium Dioxide,PuO2,Other technologically relevant materials,298,2000,72.313519,0.00750734,-1569168.734,0.996939,J/(mol*K),Shomate,IVTAN Thermodynamic Database
+MAT211,Thorium Dioxide,ThO2,Other technologically relevant materials,298,2500,74.595826,0.00499887,-1444419.61,0.995794,J/(mol*K),Shomate,NIST JANAF
+MAT212,Zircaloy-4 (Nuclear Cladding),Zr-1.5Sn-0.2Fe-0.1Cr,Other technologically relevant materials,298,1200,285,0.11,0,1,J/(kg*K),Polynomial,MatWeb
+MAT213,Lithium Hydride,LiH,Other technologically relevant materials,298,950,34.330514,0.01708035,-681344.7598,0.999587,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT214,Sodium Metal (Coolant),Na,Other technologically relevant materials,298,371,27.031854,0.00143863,-80937.38654,1,J/(mol*K),Shomate,NIST Chemistry WebBook
+MAT215,Lead-Bismuth Eutectic (LBE),45Pb-55Bi,Other technologically relevant materials,400,1000,146,0.015,0,1,J/(kg*K),Polynomial,OECD/NEA Handbook
+MAT216,Liquid Gallium,Ga,Other technologically relevant materials,303,1000,385,-0.035,0,1,J/(kg*K),Polynomial,IVTAN Thermodynamic Database
+MAT217,Diamond (Crystalline),C,Other technologically relevant materials,298,1500,23.057484,0.00634642,-871247.3472,0.9851,J/(mol*K),Shomate,NIST JANAF
+MAT218,Graphene (Monolayer),C,Other technologically relevant materials,200,1000,761.770244,1.26641318,-5384872.407,0.999005,J/(kg*K),Polynomial,Springer Open Data
+MAT219,Hexagonal Boron Nitride (h-BN),BN,Other technologically relevant materials,298,1800,32.818929,0.00748159,-1390945.067,0.994764,J/(mol*K),Shomate,NIST JANAF
+MAT220,MAX Phase (Ti3SiC2),Ti3SiC2,Other technologically relevant materials,298,1500,146.135533,0.02104141,-3432483.705,0.999086,J/(mol*K),Shomate,Materials Project
+MAT221,MAX Phase (Ti2AlC),Ti2AlC,Other technologically relevant materials,298,1500,105.094906,0.01539256,-2306374.794,0.999311,J/(mol*K),Shomate,Materials Project
+MAT222,MAX Phase (Cr2AlC),Cr2AlC,Other technologically relevant materials,298,1500,109.580842,0.01648042,-2554967.718,0.999246,J/(mol*K),Shomate,Materials Project
+MAT223,MXene (Ti3C2Tx),Ti3C2T,Other technologically relevant materials,200,800,620,0.45,0,1,J/(kg*K),Polynomial,Springer Open Data
+MAT224,Barium Ferrite (Permanent Magnet),BaFe12O19,Other technologically relevant materials,298,1200,726.813637,0.10274895,-16748236.03,0.999688,J/(mol*K),Shomate,Materials Project
+MAT225,Strontium Ferrite,SrFe12O19,Other technologically relevant materials,298,1200,719.098009,0.09993243,-16102664.43,0.99968,J/(mol*K),Shomate,Materials Project
+MAT233,Ferrite (Mn-Zn Ferrite),Mn0.5Zn0.5Fe2O4,Other technologically relevant materials,298,600,750,0.35,0,1,J/(kg*K),Polynomial,MatWeb
+MAT234,Lanthanum Hexaboride,LaB6,Other technologically relevant materials,298,1800,115.616626,0.01189417,-2880156.159,0.998792,J/(mol*K),Shomate,Materials Project
+MAT235,Cerium Hexaboride,CeB6,Other technologically relevant materials,298,1800,115.105008,0.01213823,-2821001.851,0.998729,J/(mol*K),Shomate,AFLOW Database
+MAT236,Barium Fluoride (Optical),BaF2,Other technologically relevant materials,298,1500,71.182009,0.00713108,-999050.6965,0.999376,J/(mol*K),Shomate,NIST Chemistry WebBook
